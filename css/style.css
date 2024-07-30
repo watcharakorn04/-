@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 300px;
+    margin: auto;
+}
+
+.div-bg1 {
+    background-color: brown;
+}
+
+.div-bg2 {
+    background-color: orange;
+}
+
+.div-bg3 {
+    background-color: blueviolet;
+}
+
+.mycontainer {
+    text-align: center;
+    width:100%;
+    overflow:auto;
+}
+
+.mycontainer div {
+    width:33%;
+    float:left;
+}
+
+h1 {
+    color: aqua;
+}
+
+h2 {
+    color: red;
+}
+
+.textgreen {
+    color: green;
+}
+
+.textyellow {
+    color: yellow;
+}
+
+#textpink {
+    color: pink;
+}
